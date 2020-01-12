@@ -33,7 +33,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 3. BlueSoft Technology
 4. Michael Page
 
-## Empresas donde no se necesita saber inglés
+## Empresas donde no se necesita saber ingles
 1. Serdan
 2. Intergrupo
 3. SCI Software
