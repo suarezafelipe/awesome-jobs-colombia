@@ -4,9 +4,9 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 ## Contenido
 - [Nearshores](#nearshores)
 - [Producto propio](#producto-propio)
-- [Recruiters] (#recruiters)
-- [No-Inglés] (#Empresas-donde-no-se-necesita-saber-ingles)
-- [Por categorizar] (#por-categorizar)
+- [Recruiters](#recruiters)
+- [No-Inglés](#empresas-donde-no-se-necesita-saber-ingles)
+- [Por categorizar](#por-categorizar)
 
 ## Nearshores
 1. Globant / Bellatrix (Medellín, Bogotá)
