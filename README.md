@@ -52,6 +52,8 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 1. [Intergrupo](http://www.intergrupo.com/en/vacancies/) (Sabaneta, Cali)
 1. [SCI Software](https://www.linkedin.com/in/sci-software-development-sas-252718b4/detail/recent-activity/shares/) (Bogotá)
 1. [Stefanini](https://stefanini.com/en/careers) (Bogotá, Medellin, Cali, Barranquilla y Paipa)
+1. [Ceiba](https://www.ceiba.com.co/en/) (Medellin)
+
 
 
 ## Por categorizar
