@@ -38,8 +38,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 1. [Blackboard](https://co.linkedin.com/jobs/blackboard-empleos?position=1&pageNum=0) (Bogota)
 1. [Muy](https://home.muy.com.co/#/trabajaconnosotros) (Bogota)
 1. [Aval digitalabs](https://www.linkedin.com/company/avaldigitallabs/) (Bogota)
-1. [Scotiabank](https://www.elempleo.com/co/sitio-empresarial/scotiabank-colpatria/ofertas-laborales) (Bogota)
-1. [Lendingfront](https://angel.co/company/lendingfront/jobs (Remote)
+1. [Lendingfront](https://angel.co/company/lendingfront/jobs) (Remote)
 1. [Addi](https://jobs.lever.co/addi) (Bogota)
 
 ## Recruiters
