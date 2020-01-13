@@ -16,37 +16,38 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 5. Endava (Medellín, Bogotá)
 6. UruIT (Medellín)
 7. GAP (Medellín, Bogotá)
-8. Pragma
-9. Gorilla Logic
+8. Pragma (Medellín, Bogotá, Cali)
+9. Gorilla Logic (Medellín)
 10. S4N (Medellín, Bogotá)
 11. Oiga (Medellín)
 12. MAS Global (Medellín)
 
 ## Producto propio
-1. Sproutloud 
+1. Sproutloud (Medellín)
 2. SANA Commerce (Medellín)
 3. Genius Sports (Medellín)
+4. Pratech (Medellín)
 
 ## Recruiters
-1. Experis
-2. DreamIT Jobs
-3. BlueSoft Technology
+1. Experis (Medellín)
+2. DreamIT Jobs ()
+3. BlueSoft Technology (Bogotá)
 4. Michael Page
 
 ## Empresas donde no se necesita saber ingles
-1. Serdan
-2. Intergrupo
-3. SCI Software
+1. Serdan (Bogotá)
+2. Intergrupo (Sabaneta)
+3. SCI Software (Bogotá)
 4. Stefanini (Bogotá, Medellin, Cali, Barranquilla y Paipa)
 
 
 ## Por categorizar
 No se sabe si son nearshores, producto propio, si se necesita inglés o no.
-1. Hexacta
-2. Proximity
-3. Cyxtera
-4. Zemoga
-5. Indra * 
-6. TATA * 
+1. Hexacta (Bogotá)
+2. Proximity (Bogotá)
+3. Cyxtera (Bogotá)
+4. Zemoga (Bogotá)
+5. Indra (Bogotá, Medellín, Pereira, Bucaramanga, Barranquilla, Florencia, Ibagué, Cali, Sincelejo, Tunja, Valledupar, Yopal, Villavicencio) *
+6. TATA (Bogotá, Medellín) *
 
 \* No se sabe si hay puestos para desarrollo de sofware o solo para consultoria en IT
