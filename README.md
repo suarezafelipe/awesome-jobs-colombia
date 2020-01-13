@@ -21,6 +21,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 10. [S4N](https://jobs.lever.co/s4n) (Medellín, Bogotá)
 11. [Oiga](https://oiga.com/unete-a-nosotros/) (Medellín)
 12. [MAS Global](https://masglobalconsulting.applytojob.com/) (Medellín)
+13. [YuxiGlobal](https://www.yuxiglobal.com/careers) (Medellín, Armenia)
 
 ## Producto propio
 1. [Sproutloud](https://sproutloud.applytojob.com/apply) (Medellín)
@@ -42,8 +43,6 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 2. [Intergrupo](http://www.intergrupo.com/en/vacancies/) (Sabaneta)
 3. [SCI Software](https://www.linkedin.com/in/sci-software-development-sas-252718b4/detail/recent-activity/shares/) (Bogotá)
 4. [Stefanini](https://stefanini.com/en/careers) (Bogotá, Medellin, Cali, Barranquilla y Paipa)
-5. [YuxiGlobal](https://www.yuxiglobal.com/) (Medellín, Armenia)
-6. [Ingeneo](https://ingeneo.com.co/) (Medellín)
 
 
 ## Por categorizar
