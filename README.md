@@ -29,7 +29,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 4. [Instaleap.io](https://instaleap.io/careers) (Bogotá) - Inglés Intermedio
 5. [Pratech](https://www.pratechgroup.com/trabaja-en-pratech/) (Medellín)
 6. [Skillshare](https://jobs.lever.co/skillshare?location=Medell%C3%ADn) (Medellín)
-7. [LiveVox] (https://jobs.lever.co/skillshare?location=Medell%C3%ADn) (Medellín)
+7. [LiveVox] (https://jobs.jobvite.com/livevox/search?l=CO-MD+-+COL-HQ-Medellin&c=) (Medellín)
 
 ## Recruiters
 1. [Experis](https://www.manpower.com/ManpowerUSA/home/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTfw9zDw9nA18LFyDjAwczTwDjYw9jIydPY31w_Wj9KOASgxwAEcD_YLsbEUAylnE_Q!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2VuX1VT/) (Medellín)
@@ -52,5 +52,6 @@ No se sabe si son nearshores, producto propio, si se necesita inglés o no.
 4. [Zemoga](https://www.zemoga.com/jobs) (Bogotá)
 5. [Indra](https://www.indracompany.com/es/trabajar-indra-2) (Bogotá, Medellín, Pereira, Bucaramanga, Barranquilla, Florencia, Ibagué, Cali, Sincelejo, Tunja, Valledupar, Yopal, Villavicencio) *
 6. [TATA](https://ibegin.tcs.com/iBegin/) (Bogotá, Medellín) *
+7. [Summan](https://www.summan.com/empleos/) (Medellín)
 
 \* No se sabe si hay puestos para desarrollo de sofware o solo para consultoria en IT
