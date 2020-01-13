@@ -29,7 +29,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 4. [Instaleap.io](https://instaleap.io/careers) (Bogotá) - Inglés Intermedio
 5. [Pratech](https://www.pratechgroup.com/trabaja-en-pratech/) (Medellín)
 6. [Skillshare](https://jobs.lever.co/skillshare?location=Medell%C3%ADn) (Medellín)
-7. [LiveVox] (https://jobs.jobvite.com/livevox/search?l=CO-MD+-+COL-HQ-Medellin&c=) (Medellín)
+7. [LiveVox](https://jobs.jobvite.com/livevox/search?l=CO-MD+-+COL-HQ-Medellin&c=) (Medellín)
 
 ## Recruiters
 1. [Experis](https://www.manpower.com/ManpowerUSA/home/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTfw9zDw9nA18LFyDjAwczTwDjYw9jIydPY31w_Wj9KOASgxwAEcD_YLsbEUAylnE_Q!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2VuX1VT/) (Medellín)
