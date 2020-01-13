@@ -40,7 +40,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 
 ## Empresas donde no se necesita saber ingles
 1. [Serdan](http://ofertaslaborales.serdan.com.co/?O=Index.Ofertas) (Bogotá)
-2. [Intergrupo](http://www.intergrupo.com/en/vacancies/) (Sabaneta)
+2. [Intergrupo](http://www.intergrupo.com/en/vacancies/) (Sabaneta, Cali)
 3. [SCI Software](https://www.linkedin.com/in/sci-software-development-sas-252718b4/detail/recent-activity/shares/) (Bogotá)
 4. [Stefanini](https://stefanini.com/en/careers) (Bogotá, Medellin, Cali, Barranquilla y Paipa)
 
