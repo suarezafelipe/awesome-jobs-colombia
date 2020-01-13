@@ -26,7 +26,8 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 1. Sproutloud (Medellín)
 2. SANA Commerce (Medellín)
 3. Genius Sports (Medellín)
-4. Pratech (Medellín)
+4. [Instaleap.io](https://instaleap.io/careers) (Bogotá) - Inglés Intermedio
+5. Pratech (Medellín)
 
 ## Recruiters
 1. Experis (Medellín)
