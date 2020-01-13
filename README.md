@@ -21,6 +21,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 10. [S4N](https://jobs.lever.co/s4n) (Medellín, Bogotá)
 11. [Oiga](https://oiga.com/unete-a-nosotros/) (Medellín)
 12. [MAS Global](https://masglobalconsulting.applytojob.com/) (Medellín)
+13. [BairesDev](https://www.bairesdev.com/careers/) (Remoto)
 
 ## Producto propio
 1. [Sproutloud](https://sproutloud.applytojob.com/apply) (Medellín)
