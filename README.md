@@ -1,5 +1,5 @@
 # awesome-jobs-colombia
-Una lista con empresas para trabajar como desarrollador de software en Colombia
+Una lista con empresas para trabajar como desarrollador de software en Colombia.
 
 ## Contenido
 - [Nearshores](#nearshores)
@@ -23,23 +23,26 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 1. [MAS Global](https://masglobalconsulting.applytojob.com/) (Medellín)
 1. [YuxiGlobal](https://www.yuxiglobal.com/careers) (Medellín, Armenia)
 1. [BairesDev](https://www.bairesdev.com/careers/) (Remoto)
+1. [Wolox](https://wolox.recruitee.com/) (Medellín)
 
 ## Producto propio
 1. [Sproutloud](https://sproutloud.applytojob.com/apply) (Medellín)
 1. [SANA Commerce](https://www.sana-commerce.com/careers/) (Medellín)
 1. [Genius Sports](https://geniussports.gr8people.com/index.gp?method=cappportal.showPortalSearch&sysLayoutID=123) (Medellín)
-1. [Instaleap.io](https://instaleap.io/careers) (Bogotá) - Inglés Intermedio
+1. [Instaleap.io](https://instaleap.io/careers) (Bogotá)
 1. [Pratech](https://www.pratechgroup.com/trabaja-en-pratech/) (Medellín)
 1. [Skillshare](https://jobs.lever.co/skillshare?location=Medell%C3%ADn) (Medellín)
 1. [LiveVox](https://jobs.jobvite.com/livevox/search?l=CO-MD+-+COL-HQ-Medellin&c=) (Medellín)
-1. [Twilio](https://www.twilio.com/company/jobs) (Bogota)
+1. [Twilio](https://www.twilio.com/company/jobs) (Bogotá)
 1. [Truora](https://www.truora.com/careers-spanish) (Cali)
-1. [Merlin](https://merlinjobs.com/work-with-merlin) (Bogota)
+1. [Merlin](https://merlinjobs.com/work-with-merlin) (Bogotá)
 1. [Blackboard](https://co.linkedin.com/jobs/blackboard-empleos?position=1&pageNum=0) (Bogota)
-1. [Muy](https://home.muy.com.co/#/trabajaconnosotros) (Bogota)
-1. [Aval digitalabs](https://www.linkedin.com/company/avaldigitallabs/) (Bogota)
-1. [Lendingfront](https://angel.co/company/lendingfront/jobs) (Remote)
-1. [Addi](https://jobs.lever.co/addi) (Bogota)
+1. [Muy](https://home.muy.com.co/#/trabajaconnosotros) (Bogotá)
+1. [Aval digitalabs](https://www.linkedin.com/company/avaldigitallabs/) (Bogotá)
+1. [Lendingfront](https://angel.co/company/lendingfront/jobs) (Remoto)
+1. [Addi](https://jobs.lever.co/addi) (Bogotá)
+1. [Tpaga](https://tpaga.co/trabaja-con-nosotros/) (Medellín, Remoto)
+1. [SunDevs](https://sundevs.com/careers/) (Bogotá, Ibagué, Remoto)
 
 ## Recruiters
 1. [Experis](https://www.manpower.com/ManpowerUSA/home/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTfw9zDw9nA18LFyDjAwczTwDjYw9jIydPY31w_Wj9KOASgxwAEcD_YLsbEUAylnE_Q!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2VuX1VT/) (Medellín)
@@ -51,11 +54,10 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia
 1. [Serdan](http://ofertaslaborales.serdan.com.co/?O=Index.Ofertas) (Bogotá)
 1. [Intergrupo](http://www.intergrupo.com/en/vacancies/) (Sabaneta, Cali)
 1. [SCI Software](https://www.linkedin.com/in/sci-software-development-sas-252718b4/detail/recent-activity/shares/) (Bogotá)
-1. [Stefanini](https://stefanini.com/en/careers) (Bogotá, Medellin, Cali, Barranquilla y Paipa)
-
+1. [Stefanini](https://jobs.kenoby.com/stefanini-colombia) (Bogotá, Medellin, Cali, Barranquilla, Paipa)
 
 ## Por categorizar
-No se sabe si son nearshores, producto propio, si se necesita inglés o no.
+No se sabe si son Nearshores, producto propio o si se necesita inglés.
 1. [Hexacta](http://careers.hexacta.com/) (Bogotá)
 1. [Proximity](https://www.proximity.com.co/equipo-unete) (Bogotá)
 1. [Cyxtera](https://usr57.dayforcehcm.com/CandidatePortal/en-US/cyxtera/) (Bogotá)
