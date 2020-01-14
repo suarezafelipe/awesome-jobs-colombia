@@ -71,7 +71,7 @@ No se sabe si son nearshores, producto propio, si se necesita inglés o no.
 1. [Indra](https://www.indracompany.com/es/trabajar-indra-2) (Bogotá, Medellín, Pereira, Bucaramanga, Barranquilla, Florencia, Ibagué, Cali, Sincelejo, Tunja, Valledupar, Yopal, Villavicencio) \*
 1. [TATA](https://ibegin.tcs.com/iBegin/) (Bogotá, Medellín) \*
 1. [Summan](https://www.summan.com/empleos/) (Medellín)
-1. [Softka](https://www.sofka.com.co/#contact) (Medellín)
+1. [Softka](https://www.sofka.com.co/es/trabaja_con_nosotros/) (Medellín)
 1. [CondorLabs](https://condorlabs.io/hiring) (Medellín y Cartagena)
 
 \* No se sabe si hay puestos para desarrollo de sofware o solo para consultoria en IT
