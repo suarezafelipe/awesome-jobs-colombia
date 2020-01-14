@@ -24,8 +24,8 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [YuxiGlobal](https://www.yuxiglobal.com/careers) (Medellín, Armenia)
 1. [BairesDev](https://www.bairesdev.com/careers/) (Remoto)
 1. [Wolox](https://wolox.recruitee.com/) (Medellín)
-1. [Ideaware](https://ideaware.co/careers/) (Barranquilla, Remoto según proyecto)
-1. [Koombea](https://www.koombea.com/careers/) (Barranquilla)
+1. [Ideaware](https://ideaware.co/careers/) (Barranquilla, Remoto)
+1. [Koombea](https://www.koombea.com/careers/#positions-list) (Barranquilla)
 
 ## Producto propio
 1. [Sproutloud](https://sproutloud.applytojob.com/apply) (Medellín)
