@@ -26,6 +26,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Wolox](https://wolox.recruitee.com/) (Medellín)
 1. [Ideaware](https://ideaware.co/careers/) (Barranquilla, Remoto)
 1. [Koombea](https://www.koombea.com/careers/#positions-list) (Barranquilla)
+1. [Zemoga](https://www.zemoga.com/jobs) (Bogotá, Remoto)
 
 ## Producto propio
 1. [Sproutloud](https://sproutloud.applytojob.com/apply) (Medellín)
@@ -64,7 +65,6 @@ No se sabe si son Nearshores, producto propio o si se necesita inglés.
 1. [Hexacta](http://careers.hexacta.com/) (Bogotá)
 1. [Proximity](https://www.proximity.com.co/equipo-unete) (Bogotá)
 1. [Cyxtera](https://usr57.dayforcehcm.com/CandidatePortal/en-US/cyxtera/) (Bogotá)
-1. [Zemoga](https://www.zemoga.com/jobs) (Bogotá)
 1. [Indra](https://www.indracompany.com/es/trabajar-indra-2) (Bogotá, Medellín, Pereira, Bucaramanga, Barranquilla, Florencia, Ibagué, Cali, Sincelejo, Tunja, Valledupar, Yopal, Villavicencio) *
 1. [TATA](https://ibegin.tcs.com/iBegin/) (Bogotá, Medellín) *
 1. [Summan](https://www.summan.com/empleos/) (Medellín)
