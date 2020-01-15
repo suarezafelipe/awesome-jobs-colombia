@@ -27,6 +27,10 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Ideaware](https://ideaware.co/careers/) (Barranquilla, Remoto)
 1. [Koombea](https://www.koombea.com/careers/#positions-list) (Barranquilla)
 1. [Zemoga](https://www.zemoga.com/jobs) (Bogotá, Remoto)
+1. [WebCreek](https://webcreek.com/en/careers/) (Medellín)
+1. [10Pearls](https://10pearls.com/join-our-team/) (Medellín)
+1. [Parrolabs](https://www.parrolabs.com/careers/) (Medellín)
+1. [FullStackLabs](https://apply.workable.com/fullstack-labs/) (Bogotá, Medellín, Barranquilla)
 
 ## Producto propio
 1. [Sproutloud](https://sproutloud.applytojob.com/apply) (Medellín)
@@ -47,6 +51,8 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Tpaga](https://tpaga.co/trabaja-con-nosotros/) (Medellín, Remoto)
 1. [SunDevs](https://sundevs.com/careers/) (Bogotá, Ibagué, Remoto)
 1. [Qrvey](https://qrvey.com/careers) (Barranquilla)
+1. [RealPage](https://careers-realpage.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchCompany=1145) (Medellín)
+1. [LaHaus](https://apply.workable.com/lahaus/) (Bogotá, Medellín)
 
 ## Recruiters
 1. [Experis](https://www.manpower.com/ManpowerUSA/home/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTfw9zDw9nA18LFyDjAwczTwDjYw9jIydPY31w_Wj9KOASgxwAEcD_YLsbEUAylnE_Q!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2VuX1VT/) (Medellín)
