@@ -1,6 +1,17 @@
 # awesome-jobs-colombia
 Una lista con empresas para trabajar como desarrollador de software en Colombia.
 
+<details>
+  <summary>Reglas para contribuir</summary>
+  
+  ## Reglas 
+  1. Si la empresa desarrolla principalmente para otras compañías, se debe colocar en categoría "Nearshore" (nearshore para esta lista se puede tomar como sinónimo de "outsourcing" o "agencia")
+  2. Sólo agregar empresas con página de Careers o en su defecto con vacantes posteadas regularmente por LinkedIn. Esto se hace con el fin de mantener en este listado empresas que esten contratando regularmente, así se mantendrá vigente por más tiempo y es más útil para los devs que la visiten.
+ 3. Los PRs se pueden realizar por medio de "patches" o creando nuevas ramas y haciendo merge request.
+ 4. Si se tienen dudas respecto a algo por agregar/modificar se puede crear un issue. O hacer directamente el cambio + PR; dentro del PR se discutirá la duda. 
+     
+</details>
+
 ## Contenido
 
 -   [Nearshores](#nearshores)
