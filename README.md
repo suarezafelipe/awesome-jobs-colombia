@@ -75,6 +75,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [DreamIT Jobs](https://dreamitjobs.net/)
 1. [BlueSoft Technology](http://www.bluesoft.com.co/html/oportunidades.html) (Bogotá)
 1. [Michael Page](https://www.michaelpage.com.co/job-search)
+1. [JellyJobs](https://jellyjob.com/empleo/) (Bogotá)
 
 ## Empresas donde no se necesita saber ingles
 
@@ -83,6 +84,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [SCI Software](https://www.linkedin.com/in/sci-software-development-sas-252718b4/detail/recent-activity/shares/) (Bogotá)
 1. [Stefanini](https://stefanini.com/en/careers) (Bogotá, Medellin, Cali, Barranquilla,  Paipa)
 1. [Ceiba](https://www.linkedin.com/company/ceiba-software-house/jobs/) (Medellin)
+1. [Mareigua](https://www.mareigua.co/es/ofertas-laborales/) (Bogotá)
 
 ## Por categorizar
 No se sabe si son Nearshores, producto propio o si se necesita inglés.
