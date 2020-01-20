@@ -68,6 +68,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Qrvey](https://qrvey.com/careers) (Barranquilla)
 1. [RealPage](https://careers-realpage.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchCompany=1145) (Medellín)
 1. [LaHaus](https://apply.workable.com/lahaus/) (Bogotá, Medellín)
+1. [Frubana](https://jobs.lever.co/frubana?) (Bogotá, Barranquilla, Medellín)
 
 ## Recruiters
 
