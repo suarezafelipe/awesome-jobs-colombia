@@ -46,6 +46,9 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Parrolabs](https://www.parrolabs.com/careers/) (Medellín)
 1. [FullStackLabs](https://apply.workable.com/fullstack-labs/) (Bogotá, Medellín, Barranquilla)
 1. [SunDevs](https://sundevs.com/careers/) (Bogotá, Ibagué, Remoto)
+1. [Accenture](https://www.accenture.com/co-es/careers/jobsearch?jk=&sb=1) (Bogotá, Medellín)
+1. [GoToDigital](https://gotodigital.es/empleo/)(Medellín)
+1. [Q-Vision](https://qvisiontechnologies.com/unete/)(Cali, Medellín)
 
 ## Producto propio
 
@@ -61,14 +64,16 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Merlin](https://merlinjobs.com/work-with-merlin) (Bogotá)
 1. [Blackboard](https://co.linkedin.com/jobs/blackboard-empleos?position=1&pageNum=0) (Bogota)
 1. [Muy](https://home.muy.com.co/#/trabajaconnosotros) (Bogotá)
-1. [Aval digitalabs](https://www.linkedin.com/company/avaldigitallabs/) (Bogotá)
-1. [Lendingfront](https://angel.co/company/lendingfront/jobs) (Remoto)
+1. [Aval Digital Labs](https://www.linkedin.com/company/avaldigitallabs/) (Bogotá)
+1. [LendingFront](https://angel.co/company/lendingfront/jobs) (Remoto)
 1. [Addi](https://jobs.lever.co/addi) (Bogotá)
 1. [Tpaga](https://tpaga.co/trabaja-con-nosotros/) (Medellín, Remoto)
 1. [Qrvey](https://qrvey.com/careers) (Barranquilla)
 1. [RealPage](https://careers-realpage.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchCompany=1145) (Medellín)
 1. [LaHaus](https://apply.workable.com/lahaus/) (Bogotá, Medellín)
 1. [Frubana](https://jobs.lever.co/frubana?) (Bogotá, Barranquilla, Medellín)
+1. [AIFund](https://aifund.ai/careers/) (Medellín)
+1. [BunnyStudio](https://weare.bunnystudio.com/careers/) (Remoto)
 
 ## Recruiters
 
