@@ -123,10 +123,6 @@ No se sabe si son Nearshores, producto propio o si se necesita inglés.
 1. [JSHeld](https://www.linkedin.com/company/j-s--held/jobs/) (Medellín)
 1. [Extreme-Technologies](https://www.linkedin.com/company/extreme-technologies-s-a-/jobs/) (Barranquilla)
 1. [Grupo-CMC](https://www.linkedin.com/company/cmc-colombia/jobs/) (Bogotá)
-<<<<<<< HEAD
 1. [Zebra-Technologies](https://latinam-canada-zebra.icims.com/jobs/search?ss=1&searchLocation=13546--Bogota) (Bogotá)
-=======
-
->>>>>>> 9c489e40679ae3ba8154e019b00527f970ca4df2
 
 \* No se sabe si hay puestos para desarrollo de sofware o solo para consultoria en IT
