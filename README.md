@@ -54,6 +54,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [LeanTech](https://lssdevelopment.typeform.com/to/Gea9dt) (Medellín)
 1. [SmartSoft](https://www.linkedin.com/company/smartsoft-colombia/jobs/) (Bogotá)
 1. [Sophos-Solutions](https://sophossolutions.com/trabaja-con-nosotros/) (Cali, Bogotá, Medellín)
+1. [Gml-Software](https://www.linkedin.com/company/gmlsoftware/jobs/) (Bogotá)
 
 ## Producto propio
 
@@ -118,5 +119,10 @@ No se sabe si son Nearshores, producto propio o si se necesita inglés.
 1. [KPMG](https://www.elempleo.com/sitios-empresariales/colombia/kpmg/oferta_sitio.asp?Actual=1) (Bogotá)
 1. [Chronos-Consulting](https://www.chronosconsulting.com/job-offers/colombia/) (Bogotá, Cali)
 1. [Guarumo-Mobile-Technologies](https://www.linkedin.com/company/guarumo/jobs/) (Floridablanca)
+1. [Grupo-IMCLAN](https://www.linkedin.com/company/grupo-inclam/jobs/) (Medellín)
+1. [JSHeld](https://www.linkedin.com/company/j-s--held/jobs/) (Medellín)
+1. [Extreme-Technologies](https://www.linkedin.com/company/extreme-technologies-s-a-/jobs/) (Barranquilla)
+1. [Grupo-CMC](https://www.linkedin.com/company/cmc-colombia/jobs/) (Bogotá)
+
 
 \* No se sabe si hay puestos para desarrollo de sofware o solo para consultoria en IT
