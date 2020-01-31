@@ -24,7 +24,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 
 1. [Globant / Bellatrix](https://www.globant.com/careers) (Medellín, Bogotá)
 1. [PSL](https://www.psl.com.co/empleo.html) (Cali, Medellín, Bogotá)
-1. [HUGE](https://www.hugeinc.com/careers/jobs) (Medellín, Bogotá)
+1. [Huge](https://www.hugeinc.com/careers/jobs) (Medellín, Bogotá)
 1. [TEAM International](https://www.teaminternational.com/careers/) (Medellín)
 1. [Endava](https://careers.endava.com/en) (Medellín, Bogotá)
 1. [UruIT](https://uruit.com/careers) (Medellín)
@@ -49,6 +49,15 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Accenture](https://www.accenture.com/co-es/careers/jobsearch?jk=&sb=1) (Bogotá, Medellín)
 1. [GoToDigital](https://gotodigital.es/empleo/)(Medellín)
 1. [Q-Vision](https://qvisiontechnologies.com/unete/)(Cali, Medellín)
+1. [SmartGridCIS](http://smartgridcis.com/about/careers/)(Bogotá)
+1. [DataiFX](https://www.linkedin.com/jobs/view/1713642058/)(Bogotá)
+1. [LeanTech](https://lssdevelopment.typeform.com/to/Gea9dt) (Medellín)
+1. [SmartSoft](https://www.linkedin.com/company/smartsoft-colombia/jobs/) (Bogotá)
+1. [Sophos-Solutions](https://sophossolutions.com/trabaja-con-nosotros/) (Cali, Bogotá, Medellín)
+1. [Gml-Software](https://www.linkedin.com/company/gmlsoftware/jobs/) (Bogotá)
+1. [Monadical] (https://monadical.com/team.html#join) (Medellín, Cali, Remoto)
+1. [Toptal](https://www.toptal.com/careers#positions) (Remoto)
+
 
 ## Producto propio
 
@@ -74,6 +83,13 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Frubana](https://jobs.lever.co/frubana?) (Bogotá, Barranquilla, Medellín)
 1. [AIFund](https://aifund.ai/careers/) (Medellín)
 1. [BunnyStudio](https://weare.bunnystudio.com/careers/) (Remoto)
+1. [Sweatbits](https://sweatbits.co/platform/work_with_us) (Bogotá)
+1. [CSG](https://careers.csgi.com/search-results?qcountry=Colombia)(Bogotá)
+1. [Experian](https://experian.referrals.selectminds.com/jobs/search/4129592) (Bogotá)
+1. [Tuya](https://www.linkedin.com/company/tuya-s-a/jobs/) (Medellín)
+1. [Rappi](https://www.rappi.com/jobs/) (Bogotá, Medellín)
+1. [Playvox](http://jobs.playvox.com/) (Manizales)
+1. [Tesorio](https://jobs.lever.co/tesorio/) (Remoto)
 
 ## Recruiters
 
@@ -103,5 +119,13 @@ No se sabe si son Nearshores, producto propio o si se necesita inglés.
 1. [Summan](https://www.summan.com/empleos/) (Medellín)
 1. [Sofka](https://www.sofka.com.co/es/trabaja_con_nosotros_registro/) (Medellín)
 1. [CondorLabs](https://condorlabs.io/hiring) (Medellín, Cartagena)
+1. [KPMG](https://www.elempleo.com/sitios-empresariales/colombia/kpmg/oferta_sitio.asp?Actual=1) (Bogotá)
+1. [Chronos-Consulting](https://www.chronosconsulting.com/job-offers/colombia/) (Bogotá, Cali)
+1. [Guarumo-Mobile-Technologies](https://www.linkedin.com/company/guarumo/jobs/) (Floridablanca)
+1. [Grupo-IMCLAN](https://www.linkedin.com/company/grupo-inclam/jobs/) (Medellín)
+1. [JSHeld](https://www.linkedin.com/company/j-s--held/jobs/) (Medellín)
+1. [Extreme-Technologies](https://www.linkedin.com/company/extreme-technologies-s-a-/jobs/) (Barranquilla)
+1. [Grupo-CMC](https://www.linkedin.com/company/cmc-colombia/jobs/) (Bogotá)
+1. [Zebra-Technologies](https://latinam-canada-zebra.icims.com/jobs/search?ss=1&searchLocation=13546--Bogota) (Bogotá)
 
 \* No se sabe si hay puestos para desarrollo de sofware o solo para consultoria en IT
