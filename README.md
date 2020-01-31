@@ -56,6 +56,8 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Sophos-Solutions](https://sophossolutions.com/trabaja-con-nosotros/) (Cali, Bogotá, Medellín)
 1. [Gml-Software](https://www.linkedin.com/company/gmlsoftware/jobs/) (Bogotá)
 1. [Monadical] (https://monadical.com/team.html#join) (Medellín, Cali, Remoto)
+1. [Toptal](https://www.toptal.com/careers#positions) (Remoto)
+
 
 ## Producto propio
 
@@ -83,7 +85,6 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [BunnyStudio](https://weare.bunnystudio.com/careers/) (Remoto)
 1. [Sweatbits](https://sweatbits.co/platform/work_with_us) (Bogotá)
 1. [CSG](https://careers.csgi.com/search-results?qcountry=Colombia)(Bogotá)
-1. [Toptal](https://www.toptal.com/careers#positions) (Remoto)
 1. [Experian](https://experian.referrals.selectminds.com/jobs/search/4129592) (Bogotá)
 1. [Tuya](https://www.linkedin.com/company/tuya-s-a/jobs/) (Medellín)
 1. [Rappi](https://www.rappi.com/jobs/) (Bogotá, Medellín)
