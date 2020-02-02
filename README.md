@@ -55,9 +55,9 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [SmartSoft](https://www.linkedin.com/company/smartsoft-colombia/jobs/) (Bogotá)
 1. [Sophos-Solutions](https://sophossolutions.com/trabaja-con-nosotros/) (Cali, Bogotá, Medellín)
 1. [Gml-Software](https://www.linkedin.com/company/gmlsoftware/jobs/) (Bogotá)
-1. [Monadical] (https://monadical.com/team.html#join) (Medellín, Cali, Remoto)
+1. [Monadical](https://monadical.com/team.html#join) (Medellín, Cali, Remoto)
 1. [Toptal](https://www.toptal.com/careers#positions) (Remoto)
-
+1. [Astound-Commerce](https://careers.astoundcommerce.com/vacancies/all/medellin/) (Medellín)
 
 ## Producto propio
 
