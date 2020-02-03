@@ -59,7 +59,8 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Toptal](https://www.toptal.com/careers#positions) (Remoto)
 1. [Astound-Commerce](https://careers.astoundcommerce.com/vacancies/all/medellin/) (Medellín)
 1. [Monoku](https://monoku.recruiterbox.com/) (Bogotá)
-1. [Kommit] (https://kommit.co/home) (Remoto)
+1. [Kommit](https://kommit.co/home) (Remoto)
+1. [Scopic] (https://scopicsoftware.com/careers/) (Remoto)
 
 ## Producto propio
 
