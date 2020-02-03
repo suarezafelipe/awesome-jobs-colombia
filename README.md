@@ -47,10 +47,10 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [FullStackLabs](https://apply.workable.com/fullstack-labs/) (Bogotá, Medellín, Barranquilla)
 1. [SunDevs](https://sundevs.com/careers/) (Bogotá, Ibagué, Remoto)
 1. [Accenture](https://www.accenture.com/co-es/careers/jobsearch?jk=&sb=1) (Bogotá, Medellín)
-1. [GoToDigital](https://gotodigital.es/empleo/)(Medellín)
-1. [Q-Vision](https://qvisiontechnologies.com/unete/)(Cali, Medellín)
-1. [SmartGridCIS](http://smartgridcis.com/about/careers/)(Bogotá)
-1. [DataiFX](https://www.linkedin.com/jobs/view/1713642058/)(Bogotá)
+1. [GoToDigital](https://gotodigital.es/empleo/) (Medellín)
+1. [Q-Vision](https://qvisiontechnologies.com/unete/) (Cali, Medellín)
+1. [SmartGridCIS](http://smartgridcis.com/about/careers/) (Bogotá)
+1. [DataiFX](https://www.linkedin.com/jobs/view/1713642058/) (Bogotá)
 1. [LeanTech](https://lssdevelopment.typeform.com/to/Gea9dt) (Medellín)
 1. [SmartSoft](https://www.linkedin.com/company/smartsoft-colombia/jobs/) (Bogotá)
 1. [Sophos-Solutions](https://sophossolutions.com/trabaja-con-nosotros/) (Cali, Bogotá, Medellín)
@@ -58,6 +58,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Monadical](https://monadical.com/team.html#join) (Medellín, Cali, Remoto)
 1. [Toptal](https://www.toptal.com/careers#positions) (Remoto)
 1. [Astound-Commerce](https://careers.astoundcommerce.com/vacancies/all/medellin/) (Medellín)
+1. [Monoku](https://monoku.recruiterbox.com/) (Bogotá)
 
 ## Producto propio
 
