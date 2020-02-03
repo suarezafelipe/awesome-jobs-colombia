@@ -92,6 +92,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Playvox](http://jobs.playvox.com/) (Manizales)
 1. [Tesorio](https://jobs.lever.co/tesorio/) (Remoto)
 1. [Ayenda](https://ayenda.recruitee.com/) (Medellín)
+1. [LoQueNecesito](https://www.linkedin.com/company/loquenecesito-co/jobs/) (Bogotá)
 
 ## Recruiters
 
