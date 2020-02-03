@@ -91,6 +91,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Rappi](https://www.rappi.com/jobs/) (Bogotá, Medellín)
 1. [Playvox](http://jobs.playvox.com/) (Manizales)
 1. [Tesorio](https://jobs.lever.co/tesorio/) (Remoto)
+1. [Ayenda](https://ayenda.recruitee.com/) (Medellín)
 
 ## Recruiters
 
