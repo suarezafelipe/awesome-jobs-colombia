@@ -47,17 +47,22 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [FullStackLabs](https://apply.workable.com/fullstack-labs/) (Bogotá, Medellín, Barranquilla)
 1. [SunDevs](https://sundevs.com/careers/) (Bogotá, Ibagué, Remoto)
 1. [Accenture](https://www.accenture.com/co-es/careers/jobsearch?jk=&sb=1) (Bogotá, Medellín)
-1. [GoToDigital](https://gotodigital.es/empleo/)(Medellín)
-1. [Q-Vision](https://qvisiontechnologies.com/unete/)(Cali, Medellín)
-1. [SmartGridCIS](http://smartgridcis.com/about/careers/)(Bogotá)
-1. [DataiFX](https://www.linkedin.com/jobs/view/1713642058/)(Bogotá)
+1. [GoToDigital](https://gotodigital.es/empleo/) (Medellín)
+1. [Q-Vision](https://qvisiontechnologies.com/unete/) (Cali, Medellín)
+1. [SmartGridCIS](http://smartgridcis.com/about/careers/) (Bogotá)
+1. [DataiFX](https://www.linkedin.com/jobs/view/1713642058/) (Bogotá)
 1. [LeanTech](https://lssdevelopment.typeform.com/to/Gea9dt) (Medellín)
 1. [SmartSoft](https://www.linkedin.com/company/smartsoft-colombia/jobs/) (Bogotá)
 1. [Sophos-Solutions](https://sophossolutions.com/trabaja-con-nosotros/) (Cali, Bogotá, Medellín)
 1. [Gml-Software](https://www.linkedin.com/company/gmlsoftware/jobs/) (Bogotá)
-1. [Monadical] (https://monadical.com/team.html#join) (Medellín, Cali, Remoto)
+1. [Monadical](https://monadical.com/team.html#join) (Medellín, Cali, Remoto)
 1. [Toptal](https://www.toptal.com/careers#positions) (Remoto)
-
+1. [Astound-Commerce](https://careers.astoundcommerce.com/vacancies/all/medellin/) (Medellín)
+1. [Monoku](https://monoku.recruiterbox.com/) (Bogotá)
+1. [Kommit](https://kommit.co/home) (Remoto)
+1. [Scopic](https://scopicsoftware.com/careers/) (Remoto)
+1. [SourceMeridian](https://sourcemeridian.com/work-with-us/) (Medellín)
+1. [10Pearls](https://10pearls.com/join-our-team/) (Medellín)
 
 ## Producto propio
 
@@ -90,6 +95,10 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Rappi](https://www.rappi.com/jobs/) (Bogotá, Medellín)
 1. [Playvox](http://jobs.playvox.com/) (Manizales)
 1. [Tesorio](https://jobs.lever.co/tesorio/) (Remoto)
+1. [Ayenda](https://ayenda.recruitee.com/) (Medellín)
+1. [LoQueNecesito](https://www.linkedin.com/company/loquenecesito-co/jobs/) (Bogotá)
+1. [Komet-Sales](https://www.kometsales.com/pages/careers) (Medellín)
+1. [Landing-AI](https://landing.ai/careers/) (Medellín)
 
 ## Recruiters
 
