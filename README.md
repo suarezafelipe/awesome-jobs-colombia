@@ -67,6 +67,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [SalsaMobi](https://salsamobi.com/careers/) (Remoto)
 1. [Jobsity](https://www.jobsity.com/careers) (Medellín, remoto)
 1. [Aseneg](https://www.aseneg.com/ofertas-laborales/) (Bogotá)
+1. [Unisys](https://unisys.wd5.myworkdayjobs.com/External/3/refreshFacet/318c8bb6f553100021d223d9780d30be) (Bogotá, Medellín) 
 
 ## Producto propio
 
