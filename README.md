@@ -74,7 +74,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Skillshare](https://jobs.lever.co/skillshare?location=Medell%C3%ADn) (Medellín)
 1. [LiveVox](https://jobs.jobvite.com/livevox/search?l=CO-MD+-+COL-HQ-Medellin&c=) (Medellín)
 1. [Twilio](https://www.twilio.com/company/jobs) (Bogotá)
-1. [Truora](https://www.truora.com/careers-spanish) (Cali)
+1. [Truora](https://www.truora.com/careers-spanish) (Cali, Bogotá, Manizales, Cúcuta, Remoto)
 1. [Merlin](https://merlinjobs.com/work-with-merlin) (Bogotá)
 1. [Blackboard](https://co.linkedin.com/jobs/blackboard-empleos?position=1&pageNum=0) (Bogota)
 1. [Muy](https://home.muy.com.co/#/trabajaconnosotros) (Bogotá)
