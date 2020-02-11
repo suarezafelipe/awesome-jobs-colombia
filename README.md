@@ -104,6 +104,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [LoQueNecesito](https://www.linkedin.com/company/loquenecesito-co/jobs/) (Bogotá)
 1. [Komet-Sales](https://www.kometsales.com/pages/careers) (Medellín)
 1. [Landing-AI](https://landing.ai/careers/) (Medellín)
+1. [Milo-Credit](https://jobs.lever.co/milocredit?department=Research%20%26%20Development&team=Engineering) (Cali)
 
 ## Recruiters
 
