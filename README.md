@@ -1,4 +1,5 @@
 # awesome-jobs-colombia
+
 Una lista con empresas para trabajar como desarrollador de software en Colombia.
 
 <details>
@@ -14,11 +15,11 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 
 ## Contenido
 
--   [Nearshores](#nearshores)
--   [Producto propio](#producto-propio)
--   [Recruiters](#recruiters)
--   [No-Inglés](#empresas-donde-no-se-necesita-saber-ingles)
--   [Por categorizar](#por-categorizar)
+- [Nearshores](#nearshores)
+- [Producto propio](#producto-propio)
+- [Recruiters](#recruiters)
+- [No-Inglés](#empresas-donde-no-se-necesita-saber-ingles)
+- [Por categorizar](#por-categorizar)
 
 ## Nearshores
 
@@ -67,7 +68,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [SalsaMobi](https://salsamobi.com/careers/) (Remoto)
 1. [Jobsity](https://www.jobsity.com/careers) (Medellín, remoto)
 1. [Aseneg](https://www.aseneg.com/ofertas-laborales/) (Bogotá)
-1. [Unisys](https://unisys.wd5.myworkdayjobs.com/External/3/refreshFacet/318c8bb6f553100021d223d9780d30be) (Bogotá, Medellín) 
+1. [Unisys](https://unisys.wd5.myworkdayjobs.com/External/3/refreshFacet/318c8bb6f553100021d223d9780d30be) (Bogotá, Medellín)
 
 ## Producto propio
 
@@ -105,6 +106,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Komet-Sales](https://www.kometsales.com/pages/careers) (Medellín)
 1. [Landing-AI](https://landing.ai/careers/) (Medellín)
 1. [Milo-Credit](https://jobs.lever.co/milocredit?department=Research%20%26%20Development&team=Engineering) (Cali)
+1. [Guruhotel](https://guruhotel.com/en/trabaja-con-nosotros/) (Medellín, remoto)
 
 ## Recruiters
 
@@ -119,18 +121,19 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Serdan](http://ofertaslaborales.serdan.com.co/?O=Index.Ofertas) (Bogotá)
 1. [Intergrupo](http://www.intergrupo.com/en/vacancies/) (Sabaneta, Cali)
 1. [SCI Software](https://www.linkedin.com/in/sci-software-development-sas-252718b4/detail/recent-activity/shares/) (Bogotá)
-1. [Stefanini](https://stefanini.com/en/careers) (Bogotá, Medellin, Cali, Barranquilla,  Paipa)
+1. [Stefanini](https://stefanini.com/en/careers) (Bogotá, Medellin, Cali, Barranquilla, Paipa)
 1. [Ceiba](https://www.linkedin.com/company/ceiba-software-house/jobs/) (Medellin)
 1. [Mareigua](https://www.mareigua.co/es/ofertas-laborales/) (Bogotá)
 
 ## Por categorizar
+
 No se sabe si son Nearshores, producto propio o si se necesita inglés.
 
 1. [Hexacta](http://careers.hexacta.com/) (Bogotá)
 1. [Proximity](https://www.proximity.com.co/equipo-unete) (Bogotá)
 1. [Cyxtera](https://usr57.dayforcehcm.com/CandidatePortal/en-US/cyxtera/) (Bogotá)
-1. [Indra](https://www.indracompany.com/es/trabajar-indra-2) (Bogotá, Medellín, Pereira, Bucaramanga, Barranquilla, Florencia, Ibagué, Cali, Sincelejo, Tunja, Valledupar, Yopal, Villavicencio) *
-1. [TATA](https://ibegin.tcs.com/iBegin/) (Bogotá, Medellín) *
+1. [Indra](https://www.indracompany.com/es/trabajar-indra-2) (Bogotá, Medellín, Pereira, Bucaramanga, Barranquilla, Florencia, Ibagué, Cali, Sincelejo, Tunja, Valledupar, Yopal, Villavicencio) \*
+1. [TATA](https://ibegin.tcs.com/iBegin/) (Bogotá, Medellín) \*
 1. [Summan](https://www.summan.com/empleos/) (Medellín)
 1. [Sofka](https://www.sofka.com.co/es/trabaja_con_nosotros_registro/) (Medellín)
 1. [CondorLabs](https://condorlabs.io/hiring) (Medellín, Cartagena)
