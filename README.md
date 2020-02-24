@@ -15,13 +15,13 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 
 ## Contenido
 
-- [Nearshores](#nearshores)
+- [Nearshores - Outsourcing](#nearshores)
 - [Producto propio](#producto-propio)
 - [Recruiters](#recruiters)
 - [No-Inglés](#empresas-donde-no-se-necesita-saber-ingles)
 - [Por categorizar](#por-categorizar)
 
-## Nearshores / Oursourcing
+## Nearshores / Outsourcing
 
 1. [Globant / Bellatrix](https://www.globant.com/careers) (Medellín, Bogotá)
 1. [PSL](https://www.psl.com.co/empleo.html) (Cali, Medellín, Bogotá)
