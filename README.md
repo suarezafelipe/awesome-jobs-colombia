@@ -69,6 +69,8 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Jobsity](https://www.jobsity.com/careers) (Medellín, remoto)
 1. [Aseneg](https://www.aseneg.com/ofertas-laborales/) (Bogotá)
 1. [Unisys](https://unisys.wd5.myworkdayjobs.com/External/3/refreshFacet/318c8bb6f553100021d223d9780d30be) (Bogotá, Medellín)
+1. [Grupo-Cinte](https://grupocinte.com/vacantes/) (Bogotá, Medellín)
+1. [Humanet](https://humanet.hiringroom.com/jobs/) (Bogotá)
 
 ## Producto propio
 
@@ -107,6 +109,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Landing-AI](https://landing.ai/careers/) (Medellín)
 1. [Milo-Credit](https://jobs.lever.co/milocredit?department=Research%20%26%20Development&team=Engineering) (Cali)
 1. [Guruhotel](https://guruhotel.com/en/trabaja-con-nosotros/) (Medellín, remoto)
+1. [Financialo-Mejor](https://www.linkedin.com/company/financialo-mejor/jobs/) (Bogotá)
 
 ## Recruiters
 
