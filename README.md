@@ -71,6 +71,9 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Unisys](https://unisys.wd5.myworkdayjobs.com/External/3/refreshFacet/318c8bb6f553100021d223d9780d30be) (Bogotá, Medellín)
 1. [Grupo-Cinte](https://grupocinte.com/vacantes/) (Bogotá, Medellín)
 1. [Humanet](https://humanet.hiringroom.com/jobs/) (Bogotá)
+1. [Praxent](https://praxent.com/careers) (Remoto)
+1. [Truelogic-Software](https://www.truelogicsoftware.com/careers/) (Remoto)
+1. [Software-Estrategico](https://www.computrabajo.com.co/empresas/ofertas-de-trabajo-de-software-estrategico-sas-F5F7931090C29EF4) (Bogotá, Sabaneta, Medellín)
 
 ## Producto propio
 
