@@ -114,6 +114,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Guruhotel](https://guruhotel.com/en/trabaja-con-nosotros/) (Medellín, remoto)
 1. [Financialo-Mejor](https://www.linkedin.com/company/financialo-mejor/jobs/) (Bogotá)
 1. [Tul](https://tul.com.co/jobs/) (Bogotá)
+1. [Zapier](https://zapier.com/jobs/) (Remoto)
 
 ## Recruiters
 
