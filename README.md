@@ -74,6 +74,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Truelogic Software](https://www.truelogicsoftware.com/careers/) (Remoto)
 1. [Software Estrategico](https://www.computrabajo.com.co/empresas/ofertas-de-trabajo-de-software-estrategico-sas-F5F7931090C29EF4) (Bogotá, Sabaneta, Medellín)
 1. [Ease Solutions](https://apply.workable.com/ease-solutions-pte-ltd/) (Bogotá)
+1. [Vlipco](https://www.vlipco.com/careers)
 
 ## Producto propio
 
