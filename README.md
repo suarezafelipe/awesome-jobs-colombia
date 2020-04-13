@@ -123,6 +123,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Rokk3r](https://apply.workable.com/rokk3r/) (Bogotá)
 1. [Multiplica Talent](https://apply.workable.com/multiplica-1/) (Medellín)
 1. [AxiomSL](https://apply.workable.com/axiomsl/) (Bogotá, Medellín)
+1. [Nominapp](https://nominapp.com/co/jobs/) (Remoto)
 
 
 ## Recruiters
