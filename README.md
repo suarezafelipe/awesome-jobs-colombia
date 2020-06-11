@@ -125,7 +125,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Multiplica Talent](https://apply.workable.com/multiplica-1/) (Medellín)
 1. [AxiomSL](https://apply.workable.com/axiomsl/) (Bogotá, Medellín)
 1. [Nominapp](https://nominapp.com/co/jobs/) (Remoto)
-
+1. [Guarumo Mobile Technologies](https://www.linkedin.com/company/guarumo/jobs/) (Floridablanca)
 
 ## Recruiters
 
@@ -144,7 +144,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Ceiba](https://www.linkedin.com/company/ceiba-software-house/jobs/) (Medellin)
 1. [Mareigua](https://www.mareigua.co/es/ofertas-laborales/) (Bogotá)
 
-## Por categorizar
+## Por Categorizar
 
 No se sabe si son Nearshores, producto propio o si se necesita inglés.
 
@@ -157,7 +157,6 @@ No se sabe si son Nearshores, producto propio o si se necesita inglés.
 1. [CondorLabs](https://condorlabs.io/hiring) (Medellín, Cartagena)
 1. [KPMG](https://www.elempleo.com/sitios-empresariales/colombia/kpmg/oferta_sitio.asp?Actual=1) (Bogotá)
 1. [Chronos Consulting](https://www.chronosconsulting.com/job-offers/colombia/) (Bogotá, Cali)
-1. [Guarumo Mobile Technologies](https://www.linkedin.com/company/guarumo/jobs/) (Floridablanca)
 1. [Grupo-IMCLAN](https://www.linkedin.com/company/grupo-inclam/jobs/) (Medellín)
 1. [JSHeld](https://www.linkedin.com/company/j-s--held/jobs/) (Medellín)
 1. [Extreme Technologies](https://www.linkedin.com/company/extreme-technologies-s-a-/jobs/) (Barranquilla)
