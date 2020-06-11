@@ -152,7 +152,7 @@ No se sabe si son Nearshores, producto propio o si se necesita inglés.
 1. [Cyxtera](https://usr57.dayforcehcm.com/CandidatePortal/en-US/cyxtera/) (Bogotá)
 1. [Indra](https://www.indracompany.com/es/trabajar-indra-2) (Bogotá, Medellín, Pereira, Bucaramanga, Barranquilla, Florencia, Ibagué, Cali, Sincelejo, Tunja, Valledupar, Yopal, Villavicencio) *
 1. [TATA](https://ibegin.tcs.com/iBegin/) (Bogotá, Medellín) *
-1. [Summan](https://www.summan.com/empleos/) (Medellín)
+1. [Summan](https://www.summan.com/trabaja-con-nosotros/) (Medellín)
 1. [Sofka](https://www.sofka.com.co/es/trabaja_con_nosotros_registro/) (Medellín)
 1. [CondorLabs](https://condorlabs.io/hiring) (Medellín, Cartagena)
 1. [KPMG](https://www.elempleo.com/sitios-empresariales/colombia/kpmg/oferta_sitio.asp?Actual=1) (Bogotá)
