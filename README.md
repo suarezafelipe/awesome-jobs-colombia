@@ -23,10 +23,10 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 
 ## Nearshores / Outsourcing
 
-1. [Globant / Bellatrix](https://www.globant.com/careers) (Medellín, Bogotá)
+1. [Globant / Bellatrix](https://www.globant.com/careers) (Medellín, Bogotá) [**Opiniones**](https://github.com/suarezafelipe/awesome-jobs-colombia/wiki/Globant)
 1. [PSL](https://www.psl.com.co/empleo.html) (Cali, Medellín, Bogotá)
 1. [Huge](https://www.hugeinc.com/careers/jobs) (Medellín, Bogotá)
-1. [TEAM International](https://www.teaminternational.com/careers/) (Medellín)
+1. [TEAM International](https://www.teaminternational.com/careers/) (Medellín) [**Opiniones**](https://github.com/suarezafelipe/awesome-jobs-colombia/wiki/Team-International)
 1. [Endava](https://careers.endava.com/en) (Medellín, Bogotá)
 1. [UruIT](https://uruit.com/careers) (Medellín)
 1. [GAP](https://www.growthaccelerationpartners.com/careers/job-listings/) (Medellín, Bogotá)
@@ -52,7 +52,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Q-Vision](https://qvisiontechnologies.com/unete/) (Cali, Medellín)
 1. [SmartGridCIS](http://smartgridcis.com/about/careers/) (Bogotá)
 1. [DataiFX](https://www.linkedin.com/jobs/view/1713642058/) (Bogotá)
-1. [LeanTech](https://lssdevelopment.typeform.com/to/Gea9dt) (Medellín)
+1. [LeanTech](https://lssdevelopment.typeform.com/to/Gea9dt) (Medellín) [**Opiniones**](https://github.com/suarezafelipe/awesome-jobs-colombia/wiki/Lean-Teach) 
 1. [SmartSoft](https://www.linkedin.com/company/smartsoft-colombia/jobs/) (Bogotá)
 1. [Sophos Solutions](https://sophossolutions.com/trabaja-con-nosotros/) (Cali, Bogotá, Medellín)
 1. [Gml Software](https://www.linkedin.com/company/gmlsoftware/jobs/) (Bogotá)
@@ -136,7 +136,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 
 ## Empresas donde no se necesita saber ingles
 
-1. [Serdan](http://ofertaslaborales.serdan.com.co/?O=Index.Ofertas) (Bogotá)
+1. [Serdan](http://ofertaslaborales.serdan.com.co/?O=Index.Ofertas) (Bogotá) [**Opiniones**](https://github.com/suarezafelipe/awesome-jobs-colombia/wiki/Serdan)  
 1. [Intergrupo](http://www.intergrupo.com/en/vacancies/) (Sabaneta, Cali)
 1. [SCI Software](https://www.linkedin.com/in/sci-software-development-sas-252718b4/detail/recent-activity/shares/) (Bogotá)
 1. [Stefanini](https://stefanini.com/en/careers) (Bogotá, Medellin, Cali, Barranquilla, Paipa)
