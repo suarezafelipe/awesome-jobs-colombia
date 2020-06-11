@@ -76,6 +76,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Ease Solutions](https://apply.workable.com/ease-solutions-pte-ltd/) (Bogotá)
 1. [Vlipco](https://www.vlipco.com/careers) (Bogotá, remoto)
 1. [Melt Studio](https://www.meltstudio.co/jobs) (Remoto)
+1. [Hexacta](http://careers.hexacta.com/) (Bogotá)
 
 ## Producto propio
 
@@ -147,7 +148,6 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 
 No se sabe si son Nearshores, producto propio o si se necesita inglés.
 
-1. [Hexacta](http://careers.hexacta.com/) (Bogotá)
 1. [Proximity](https://www.proximity.com.co/equipo-unete) (Bogotá)
 1. [Cyxtera](https://usr57.dayforcehcm.com/CandidatePortal/en-US/cyxtera/) (Bogotá)
 1. [Indra](https://www.indracompany.com/es/trabajar-indra-2) (Bogotá, Medellín, Pereira, Bucaramanga, Barranquilla, Florencia, Ibagué, Cali, Sincelejo, Tunja, Valledupar, Yopal, Villavicencio) *
