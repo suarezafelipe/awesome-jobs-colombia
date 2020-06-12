@@ -44,7 +44,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Hexacta](http://careers.hexacta.com/) (Bogotá)
 1. [Huge](https://www.hugeinc.com/careers/jobs) (Medellín, Bogotá)
 1. [Humanet](https://humanet.hiringroom.com/jobs/) (Bogotá)
-1. [Ideaware](https://ideaware.co/careers/) (Barranquilla, remoto)
+1. [Ideaware](https://ideaware.co/careers/) (Barranquilla, remoto) [**Opiniones**](https://github.com/suarezafelipe/awesome-jobs-colombia/wiki/Ideaware)
 1. [Indra](https://www.indracompany.com/es/trabajar-indra-2) (Bogotá, Medellín, Pereira, Bucaramanga, Barranquilla, Florencia, Ibagué, Cali, Sincelejo, Tunja, Valledupar, Yopal, Villavicencio)
 1. [Jobsity](https://www.jobsity.com/careers) (Medellín, remoto)
 1. [Keyrus](https://www.keyrus.com/en/job-offers-and-internships/) (Bogotá, Medellín)
