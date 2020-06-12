@@ -18,7 +18,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 - [Nearshores - Outsourcing](#nearshores)
 - [Producto propio](#producto-propio)
 - [Recruiters](#recruiters)
-- [No-Inglés](#empresas-donde-no-se-necesita-saber-ingles)
+- [No inglés](#empresas-donde-no-se-necesita-saber-inglés)
 
 ## Nearshores / Outsourcing
 
