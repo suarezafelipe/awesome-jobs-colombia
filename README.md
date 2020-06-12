@@ -79,6 +79,8 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Hexacta](http://careers.hexacta.com/) (Bogotá)
 1. [Sofka](https://www.sofka.com.co/es/trabaja_con_nosotros_registro/) (Medellín)
 1. [Grupo CMC](https://www.grupocmc.co/trabaja-con-nosotros/) (Bogotá)
+1. [Extreme Technologies](https://www.linkedin.com/company/extreme-technologies-s-a-/jobs/) (Barranquilla)
+
 
 
 ## Producto propio
@@ -164,6 +166,5 @@ No se sabe si son Nearshores, producto propio o si se necesita inglés.
 1. [Guarumo Mobile Technologies](https://www.linkedin.com/company/guarumo/jobs/) (Floridablanca)
 1. [Grupo-IMCLAN](https://www.linkedin.com/company/grupo-inclam/jobs/) (Medellín)
 1. [JSHeld](https://www.linkedin.com/company/j-s--held/jobs/) (Medellín)
-1. [Extreme Technologies](https://www.linkedin.com/company/extreme-technologies-s-a-/jobs/) (Barranquilla)
 
 \* No se sabe si hay puestos para desarrollo de sofware o solo para consultoria en IT
