@@ -27,7 +27,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Aseneg](https://www.aseneg.com/ofertas-laborales/) (Bogotá)
 1. [Astound Commerce](https://careers.astoundcommerce.com/vacancies/all/medellin/) (Medellín)
 1. [BairesDev](https://www.bairesdev.com/careers/) (Remoto)
-1. [Cafeto Software] (https://www.linkedin.com/company/cafeto-software/) (Cali)
+1. [Cafeto Software](https://www.linkedin.com/company/cafeto-software/) (Cali)
 1. [CondorLabs](https://condorlabs.io/hiring) (Medellín, Cartagena)
 1. [DataiFX](https://www.linkedin.com/jobs/view/1713642058/) (Bogotá)
 1. [Ease Solutions](https://apply.workable.com/ease-solutions-pte-ltd/) (Bogotá)
