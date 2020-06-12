@@ -165,6 +165,5 @@ No se sabe si son Nearshores, producto propio o si se necesita inglés.
 1. [Chronos Consulting](https://www.chronosconsulting.com/job-offers/colombia/) (Bogotá, Cali)
 1. [Guarumo Mobile Technologies](https://www.linkedin.com/company/guarumo/jobs/) (Floridablanca)
 1. [Grupo-IMCLAN](https://www.linkedin.com/company/grupo-inclam/jobs/) (Medellín)
-1. [JSHeld](https://www.linkedin.com/company/j-s--held/jobs/) (Medellín)
 
 \* No se sabe si hay puestos para desarrollo de sofware o solo para consultoria en IT
