@@ -161,6 +161,5 @@ No se sabe si son Nearshores, producto propio o si se necesita inglés.
 1. [Summan](https://www.summan.com/trabaja-con-nosotros/) (Medellín)
 1. [Sofka](https://www.sofka.com.co/es/trabaja_con_nosotros_registro/) (Medellín)
 1. [CondorLabs](https://condorlabs.io/hiring) (Medellín, Cartagena)
-1. [KPMG](https://www.elempleo.com/sitios-empresariales/colombia/kpmg/oferta_sitio.asp?Actual=1) (Bogotá)
 
 \* No se sabe si hay puestos para desarrollo de sofware o solo para consultoria en IT
