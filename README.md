@@ -46,6 +46,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Ideaware](https://ideaware.co/careers/) (Barranquilla, remoto)
 1. [Indra](https://www.indracompany.com/es/trabajar-indra-2) (Bogotá, Medellín, Pereira, Bucaramanga, Barranquilla, Florencia, Ibagué, Cali, Sincelejo, Tunja, Valledupar, Yopal, Villavicencio)
 1. [Jobsity](https://www.jobsity.com/careers) (Medellín, remoto)
+1. [Keyrus](https://www.keyrus.com/en/job-offers-and-internships/) (Medellín)
 1. [Kommit](https://kommit.co/home) (Remoto)
 1. [Koombea](https://www.koombea.com/careers/#positions-list) (Barranquilla)
 1. [LeanTech](https://lssdevelopment.typeform.com/to/Gea9dt) (Medellín) [**Opiniones**](https://github.com/suarezafelipe/awesome-jobs-colombia/wiki/Lean-Teach) 
@@ -86,6 +87,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Zemoga](https://www.zemoga.com/jobs) (Bogotá, remoto)
 
 
+
 ## Producto propio
 
 1. [Addi](https://jobs.lever.co/addi) (Bogotá)
@@ -112,6 +114,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [LendingFront](https://angel.co/company/lendingfront/jobs) (Remoto)
 1. [LiveVox](https://jobs.jobvite.com/livevox/search?l=CO-MD+-+COL-HQ-Medellin&c=) (Medellín)
 1. [LoQueNecesito](https://www.linkedin.com/company/loquenecesito-co/jobs/) (Bogotá)
+1. [Mercadolibre] (https://jobs.mercadolibre.com/go/Colombia/7785700/) (Bogotá)
 1. [Merlin](https://merlinjobs.com/work-with-merlin) (Bogotá)
 1. [Milo Credit](https://jobs.lever.co/milocredit?department=Research%20%26%20Development&team=Engineering) (Cali)
 1. [Multiplica Talent](https://apply.workable.com/multiplica-1/) (Medellín)
@@ -135,7 +138,6 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Tuya](https://www.linkedin.com/company/tuya-s-a/jobs/) (Medellín)
 1. [Twilio](https://www.twilio.com/company/jobs) (Bogotá)
 1. [Zapier](https://zapier.com/jobs/) (Remoto)
-
 
 ## Recruiters
 
