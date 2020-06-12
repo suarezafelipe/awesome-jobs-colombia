@@ -77,6 +77,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Vlipco](https://www.vlipco.com/careers) (Bogotá, remoto)
 1. [Melt Studio](https://www.meltstudio.co/jobs) (Remoto)
 1. [Hexacta](http://careers.hexacta.com/) (Bogotá)
+1. [Sofka](https://www.sofka.com.co/es/trabaja_con_nosotros_registro/) (Medellín)
 
 ## Producto propio
 
