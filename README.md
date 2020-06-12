@@ -81,6 +81,8 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Grupo CMC](https://www.grupocmc.co/trabaja-con-nosotros/) (Bogotá)
 1. [Extreme Technologies](https://www.linkedin.com/company/extreme-technologies-s-a-/jobs/) (Barranquilla)
 1. [CondorLabs](https://condorlabs.io/hiring) (Medellín, Cartagena)
+1. [Summan](https://www.summan.com/trabaja-con-nosotros/) (Medellín)
+
 
 
 
@@ -159,7 +161,5 @@ No se sabe si son Nearshores, producto propio o si se necesita inglés.
 1. [Cyxtera](https://usr57.dayforcehcm.com/CandidatePortal/en-US/cyxtera/) (Bogotá)
 1. [Indra](https://www.indracompany.com/es/trabajar-indra-2) (Bogotá, Medellín, Pereira, Bucaramanga, Barranquilla, Florencia, Ibagué, Cali, Sincelejo, Tunja, Valledupar, Yopal, Villavicencio) *
 1. [TATA](https://ibegin.tcs.com/iBegin/) (Bogotá, Medellín) *
-1. [Summan](https://www.summan.com/trabaja-con-nosotros/) (Medellín)
-1. [Sofka](https://www.sofka.com.co/es/trabaja_con_nosotros_registro/) (Medellín)
 
 \* No se sabe si hay puestos para desarrollo de sofware o solo para consultoria en IT
