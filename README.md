@@ -115,7 +115,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [LendingFront](https://angel.co/company/lendingfront/jobs) (Remoto)
 1. [LiveVox](https://jobs.jobvite.com/livevox/search?l=CO-MD+-+COL-HQ-Medellin&c=) (Medellín)
 1. [LoQueNecesito](https://www.linkedin.com/company/loquenecesito-co/jobs/) (Bogotá)
-1. [Mercadolibre] (https://jobs.mercadolibre.com/go/Colombia/7785700/) (Bogotá)
+1. [Mercadolibre](https://jobs.mercadolibre.com/go/Colombia/7785700/) (Bogotá)
 1. [Merlin](https://merlinjobs.com/work-with-merlin) (Bogotá)
 1. [Milo Credit](https://jobs.lever.co/milocredit?department=Research%20%26%20Development&team=Engineering) (Cali)
 1. [Multiplica Talent](https://apply.workable.com/multiplica-1/) (Medellín)
