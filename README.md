@@ -67,6 +67,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Melt Studio](https://www.meltstudio.co/jobs) (Remoto)
 1. [Monadical](https://monadical.com/team.html#join) (Medellín, Cali, remoto)
 1. [Monoku](https://monoku.recruiterbox.com/) (Bogotá)
+1. [Multiplica Talent](https://apply.workable.com/multiplica-1/) (Medellín)
 1. [Oiga](https://oiga.com/careers) (Medellín)
 1. [Parrolabs](https://www.parrolabs.com/careers/) (Medellín)
 1. [Pragma](https://www.pragma.com.co/trabaja-con-nosotros) (Bogotá, Cali,
@@ -146,7 +147,6 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
    (Bogotá)
 1. [Mercadolibre](https://jobs.mercadolibre.com/go/Colombia/7785700/) (Bogotá)
 1. [Milo Credit](https://jobs.lever.co/milocredit) (Cali)
-1. [Multiplica Talent](https://apply.workable.com/multiplica-1/) (Medellín)
 1. [Muy](https://home.muy.com.co/#/trabajaconnosotros) (Bogotá)
 1. [Nominapp](https://nominapp.com/vacantes) (Remoto)
 1. [Playvox](http://jobs.playvox.com/) (Bogotá, Manizales, Medellín, remoto)
