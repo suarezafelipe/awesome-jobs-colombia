@@ -32,6 +32,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Cafeto Software](https://www.linkedin.com/company/cafeto-software/jobs/)
    (Cali)
 1. [CondorLabs](https://condorlabs.io/hiring) (Cartagena, Medellín)
+1. [CodeON](https://codeon.rocks/career) (Remoto)
 1. [DataiFX](https://www.linkedin.com/company/dataifx/jobs/) (Bogotá)
 1. [Ease Solutions](https://apply.workable.com/ease-solutions-pte-ltd/) (Bogotá)
 1. [Endava](https://endava.taleo.net/careersection/2/jobsearch.ftl?location1=236105011023&jobfield1=-1)
@@ -67,7 +68,8 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Melt Studio](https://www.meltstudio.co/jobs) (Remoto)
 1. [Monadical](https://monadical.com/team.html#join) (Medellín, Cali, remoto)
 1. [Monoku](https://monoku.recruiterbox.com/) (Bogotá)
-1. [Multiplica Talent](https://www.multiplicatalent.com/quiero-trabajo/) (Medellín)
+1. [Multiplica Talent](https://www.multiplicatalent.com/quiero-trabajo/)
+   (Medellín)
 1. [Oiga](https://oiga.com/careers) (Medellín)
 1. [Parrolabs](https://www.parrolabs.com/careers/) (Medellín)
 1. [Pragma](https://www.pragma.com.co/trabaja-con-nosotros) (Bogotá, Cali,
