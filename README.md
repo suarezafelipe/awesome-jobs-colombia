@@ -112,7 +112,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Truelogic Software Solutions](https://boards.greenhouse.io/truelogic) (Remoto) [**reviews**](https://www.glassdoor.com/Reviews/Truelogic-Software-Solutions-Reviews-E1360977.htm)
 1. [Unisys](https://unisys.wd5.myworkdayjobs.com/External/2/refreshFacet/318c8bb6f553100021d223d9780d30be)
    (Bogotá, Medellín) [**reviews**](https://www.glassdoor.com/Reviews/Unisys-Reviews-E692.htm)
-1. [Uruit Global IT Services](https://uruit.com/careers) (Bogotá, Medellín) [**reviews**] (https://www.glassdoor.com/Reviews/Uruit-Global-IT-Services-Reviews-E951407.htm)
+1. [Uruit Global IT Services](https://uruit.com/careers) (Bogotá, Medellín) [**reviews**](https://www.glassdoor.com/Reviews/Uruit-Global-IT-Services-Reviews-E951407.htm)
 1. [Vlipco](https://www.vlipco.com/careers) (Bogotá, remoto)
 1. [WebCreek](https://webcreek.com/en/careers/) (Medellín) [**reviews**](https://www.glassdoor.com/Reviews/Webcreek-Reviews-E1598163.htm)
 1. [Wolox](https://wolox.recruitee.com/) (Medellín) [**reviews**](https://www.glassdoor.com/Reviews/Wolox-Reviews-E923267.htm)
@@ -150,7 +150,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
    (Medellín) [**reviews**](https://www.glassdoor.com/Reviews/LiveVox-Reviews-E156447.htm)
 1. [LoQueNecesito](https://www.linkedin.com/company/loquenecesito-co/jobs/)
    (Bogotá)
-1. [Mercadolibre](https://jobs.mercadolibre.com/go/Colombia/7785700/) (Bogotá) [**reviews**]
+1. [Mercadolibre](https://jobs.mercadolibre.com/go/Colombia/7785700/) (Bogotá) [**reviews**](https://www.glassdoor.com/Reviews/Mercado-Libre-Reviews-E42607.htm)
 1. [Milo Credit](https://jobs.lever.co/milocredit) (Cali)
 1. [Muy](https://home.muy.com.co/#/trabajaconnosotros) (Bogotá)
 1. [Nominapp](https://nominapp.com/vacantes) (Remoto)
