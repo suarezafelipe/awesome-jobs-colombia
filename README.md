@@ -137,6 +137,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
    (Bogotá)
 1. [Frubana](https://jobs.lever.co/frubana?) (Barranquilla, Bogotá) [**reviews**](https://www.glassdoor.com/Reviews/Frubana-Reviews-E2462202.htm)
 1. [Genius Sports Group](https://boards.greenhouse.io/geniussports) (Medellín) [**reviews**](https://www.glassdoor.com/Reviews/Genius-Sports-Group-Reviews-E769838.htm)
+1. [Grupo R5](https://www.grupor5.com/nosotros) (Bogotá)
 1. [Chiper](https://chiper.bamboohr.com/jobs/) (Bogotá, Medellín) [**reviews**](https://www.glassdoor.com/Reviews/Chiper-Reviews-E3693418.htm)
 1. [Guarumo Mobile Technologies](https://www.linkedin.com/company/guarumo/jobs/)
    (Bogotá, Bucaramanga)
