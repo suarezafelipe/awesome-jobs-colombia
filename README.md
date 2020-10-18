@@ -108,6 +108,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [SunDevs](https://www.sundevs.com/careers) (Remoto)
 1. [Tata Consultancy Services](https://ibegin.tcs.com/iBegin/jobs/search) (Bogotá) [**reviews**](https://www.glassdoor.com/Reviews/Tata-Consultancy-Services-Reviews-E13461.htm)
 1. [TEAM International](https://www.teaminternational.com/careers/) (Medellín) [**reviews**](https://www.glassdoor.com/Reviews/Team-International-Reviews-E610892.htm) [**opiniones**](https://github.com/suarezafelipe/awesome-jobs-colombia/wiki/Team-International)
+1. [Terminal](https://terminal.io/openings?location=remote-colombia) (Remoto) [**reviews**](https://www.glassdoor.com/Reviews/Terminal-Reviews-E1591782.htm)
 1. [Toptal](https://www.toptal.com/careers#positions) (Remoto) [**reviews**](https://www.glassdoor.com/Reviews/Toptal-Reviews-E882070.htm)
 1. [Truelogic Software Solutions](https://boards.greenhouse.io/truelogic) (Remoto) [**reviews**](https://www.glassdoor.com/Reviews/Truelogic-Software-Solutions-Reviews-E1360977.htm)
 1. [Unisys](https://unisys.wd5.myworkdayjobs.com/External/2/refreshFacet/318c8bb6f553100021d223d9780d30be)
