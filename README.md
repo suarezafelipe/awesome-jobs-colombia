@@ -2,8 +2,6 @@
 
 Una lista con empresas para trabajar como desarrollador de software en Colombia.
 
-### Sitio oficial: https://developerjobs.world 
-
 <details>
   <summary>Reglas para contribuir</summary>
   
