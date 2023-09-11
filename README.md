@@ -179,6 +179,7 @@ Una lista con empresas para trabajar como desarrollador de software en Colombia.
 1. [Tul](https://blog.tul.com.co/jobs/) (Bogotá, Medellín)
 1. [Tuya](https://www.linkedin.com/company/tuya-s-a/) (Medellín)
 1. [Twilio](https://www.twilio.com/company/jobs#open-positions) (Bogotá, remoto) [**reviews**](https://www.glassdoor.com/Reviews/Twilio-Reviews-E410790.htm) | [**company info**](https://www.crunchbase.com/organization/twilio)
+1. [Veritran](https://www.veritran.com/es/compania/talent/) (Pereira, remoto)
 1. [Workera](https://workera.ai/careers) (Medellín, remoto)
 1. [Zapier](https://zapier.com/jobs/#job-openings) (Remoto) [**reviews**](https://www.glassdoor.com/Reviews/Zapier-Reviews-E1196705.htm)
 
